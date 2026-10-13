@@ -1,1 +1,0 @@
-import{y as e}from"./VCard-B_xOcW_p.js";var t=e(`v-spacer`,`div`,`VSpacer`);export{t};
