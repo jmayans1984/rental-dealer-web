@@ -1,0 +1,1 @@
+import{Ir as e,Mr as t,Rr as n,mr as r}from"./position-B37koqY4.js";function i(){let i=e(!1);return r(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:n(()=>i.value?void 0:{transition:`none !important`}),isBooted:t(i)}}export{i as t};
