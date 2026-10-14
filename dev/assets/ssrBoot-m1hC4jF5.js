@@ -1,0 +1,1 @@
+import{Hr as e,Rr as t,Wr as n,vr as r}from"./position-D-Wh0DKr.js";function i(){let i=e(!1);return r(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:n(()=>i.value?void 0:{transition:`none !important`}),isBooted:t(i)}}export{i as t};
