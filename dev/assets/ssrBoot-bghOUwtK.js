@@ -1,1 +1,0 @@
-import{Br as e,Pr as t,Rr as n,hr as r}from"./position-CpfAH81h.js";function i(){let i=n(!1);return r(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:e(()=>i.value?void 0:{transition:`none !important`}),isBooted:t(i)}}export{i as t};

@@ -1,0 +1,1 @@
+import{Br as e,Hr as t,Ir as n,gr as r}from"./position-CKOs1f1K.js";function i(){let i=e(!1);return r(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:t(()=>i.value?void 0:{transition:`none !important`}),isBooted:n(i)}}export{i as t};
