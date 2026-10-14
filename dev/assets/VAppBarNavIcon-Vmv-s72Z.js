@@ -1,1 +1,0 @@
-import{_t as e,ct as t,er as n,in as r,it as i,sr as a}from"./position-DKpxLNBp.js";import{a as o,o as s}from"./VCard-DXj3l2Hc.js";var c=e({...r(s({icon:`$menu`,variant:`text`}),[`spaced`])},`VAppBarNavIcon`),l=t()({name:`VAppBarNavIcon`,props:c(),setup(e,{slots:t}){return i(()=>n(o,a(e,{class:[`v-app-bar-nav-icon`]}),t)),{}}});export{l as t};

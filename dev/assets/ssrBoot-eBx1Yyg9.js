@@ -1,1 +1,0 @@
-import{Lr as e,Nr as t,mr as n,zr as r}from"./position-DKpxLNBp.js";function i(){let i=e(!1);return n(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:r(()=>i.value?void 0:{transition:`none !important`}),isBooted:t(i)}}export{i as t};
