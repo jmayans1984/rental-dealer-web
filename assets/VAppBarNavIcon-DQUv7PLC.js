@@ -1,0 +1,1 @@
+import{at as e,fr as t,ir as n,lt as r,sn as i,vt as a}from"./position-B9IxOMtQ.js";import{n as o,t as s}from"./VBtn-De1HBXCD.js";var c=a({...i(o({icon:`$menu`,variant:`text`}),[`spaced`])},`VAppBarNavIcon`),l=r()({name:`VAppBarNavIcon`,props:c(),setup(r,{slots:i}){return e(()=>n(s,t(r,{class:[`v-app-bar-nav-icon`]}),i)),{}}});export{l as t};
